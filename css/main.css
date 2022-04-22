@@ -48,7 +48,6 @@ html {
 */
 
 hr {
-    display: block;
     height: 1px;
     border: 0;
     border-top: 1px solid #ccc;
@@ -453,7 +452,7 @@ button.primary {
 }
 
 #instructions {
-    display: inline-block;
+    display: none;
     width: 400px;
     vertical-align: top;
 }
